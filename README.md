@@ -2,7 +2,7 @@
 
 Klasa jest to szablon, receptura za pomocą której tworzymy obiekty.
 
-Definiuje ona pola, czy też atrybuty danej klasy, które są jej cechami, jak np.rasa kota, moc samochodu, smak lodów.
+Definiuje  ona pola, czy też atrybuty danej klasy, które są jej cechami, jak np.rasa kota, moc samochodu, smak lodów.
 Do tworzenia klasy wykorzystujemy specjalną metodę zwaną konstruktorem. Jest to dokładny zbiór instrukcji potrzebny żeby utworzyć dany obiekt klasy, czyli mamy klasę ciasto, wiemy że składa ona się z danych składników (pól), a w konstruktorze mamy konkretną recepturę tworzącą to ciasto.
 
 ## Obiekty
